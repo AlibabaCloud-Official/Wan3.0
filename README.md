@@ -4,7 +4,7 @@
 [![Wan Explore](https://img.shields.io/badge/Explore-wan.video-blue)](https://create.wan.video/explore)
 [![QwenCloud Models](https://img.shields.io/badge/QwenCloud-wan_models-orange)](https://www.qwencloud.com/models?search=wan)
 
-[Wan 3.0](https://wan.video/) is a state-of-the-art AI video generation model powered by Alibaba Cloud. It pushes the boundaries of open-source video synthesis by delivering cinematic realism, advanced editing capabilities, and comprehensive multi-modal generation tools.
+[Wan 3.0](https://wan.video/) is a state-of-the-art AI video generation model powered by Alibaba Cloud. It pushes the boundaries of video synthesis by delivering cinematic realism, advanced editing capabilities, and comprehensive multi-modal generation tools.
 
 ---
 
